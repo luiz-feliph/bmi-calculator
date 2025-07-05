@@ -9,6 +9,10 @@ A simple application developed with **React + Vite**, **TypeScript**, **Tailwind
 
 ![BMI Calculator Screenshot](./public/page-preview.png)
 
+## 🔥 Demo
+
+[🔗 Check the project online](https://bmi-calculator-phi-one.vercel.app/)  
+
 ## 🚀 Technologies Used
 
 - React
